@@ -1,0 +1,25 @@
+1.GIT下载：
+https://git-scm.com/download/
+https://registry.npmmirror.com/binary.html?path=git-for-windows/v2.38.1.windows.1/
+2.Git Bash设置账户：
+$ git config --global user.name "user-name"
+$ git config --global user.email "e-mail"
+3.判断有无ssh：
+$ cd ~/.ssh
+4.创建ssh：
+$ ssh-keygen -t rsa -C "e-mail"
+5.C:\Users\Administrator\.ssh 路径中打开id_rsa.pub并复制内容
+6.GitHub中打开Setting-SSH and GPG keys新建SSH，并将内容粘贴
+7.初始化：git init
+8.添加文件 git add README.md
+9. git add .
+10.git commit -m "xxx"
+11.git remote add origin SSH
+12.git push -u origin master
+extr：
+The authenticity of host 'github.com (000.0.0.0)' can't be established.
+ssh-keygen -t sra -C "e-mail" + 3*Enter
+cat ~/.ssh/id_rsa.pub[复制并在setting设置SSH]
+ssh -T git@github.com[判断ssh是否设置成功，再次设置确认一下]
+
+

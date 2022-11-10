@@ -1,0 +1,8 @@
+# ninja log v5
+12	2164	6896121492724974	CMakeFiles/C.dir/com/my/hundreds/a1_2/hello.cpp.obj	f26168811b3b93c0
+935	1386	6896122061027671	C_CXX.exe	662c9b9290be8163
+2166	2558	6896121496614544	C.exe	fbd08fbd040f5708
+1	446	6896122502371002	build.ninja	1b44c2370bec2ca2
+1	933	6896122056528810	CMakeFiles/C_CXX.dir/com/my/hundreds/a1/hello.c.obj	8fb35b8541cef9d7
+7	258	6896122514309080	CMakeFiles/C_CXX.dir/com/my/hundreds/a1/world.c.obj	4bab9e7c77dfdf27
+387	763	6896122519348403	C_CXX.exe	d84ad6c5c2916c6

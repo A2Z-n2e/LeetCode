@@ -1,0 +1,15 @@
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\bin\Debug\net6.0\a1.exe
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\bin\Debug\net6.0\a1.deps.json
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\bin\Debug\net6.0\a1.runtimeconfig.json
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\bin\Debug\net6.0\a1.dll
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\bin\Debug\net6.0\a1.pdb
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\a1.csproj.AssemblyReference.cache
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\a1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\a1.AssemblyInfoInputs.cache
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\a1.AssemblyInfo.cs
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\a1.csproj.CoreCompileInputs.cache
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\a1.dll
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\refint\a1.dll
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\a1.pdb
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\a1.genruntimeconfig.cache
+D:\GitHub\Git\a\C#\hundreds\a1\a1\a1\obj\Debug\net6.0\ref\a1.dll
